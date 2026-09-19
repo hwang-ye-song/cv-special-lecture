@@ -5,6 +5,6 @@
 
 ## 특강 목록
 
-| # | 주제 | 강의 요약 | 느낀 점 & 적용 방법 |
-|---|---|---|---|
-| 01 | AI 에이전트 & Claude Code | [01_강의요약.md](./01-ai-agent-claude-code/01_강의요약.md) | [02_느낀점_적용방법.md](./01-ai-agent-claude-code/02_느낀점_적용방법.md) |
+| # | 주제 | 강의 요약 | 느낀 점 & 적용 방법 | 노션 원본 |
+|---|---|---|---|---|
+| 01 | AI 에이전트 & Claude Code | [01_강의요약.md](./01-ai-agent-claude-code/01_강의요약.md) | [02_느낀점_적용방법.md](./01-ai-agent-claude-code/02_느낀점_적용방법.md) | [Notion](https://app.notion.com/p/AI-Claude-Code-3ddb2d8a990f81e195d7f6646db00b2f) |
